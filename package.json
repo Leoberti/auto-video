@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Leoberti/auto-video/issues"
   },
-  "homepage": "https://github.com/Leoberti/auto-video#readme"
+  "homepage": "https://github.com/Leoberti/auto-video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
